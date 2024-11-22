@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rapha1004" target="blank"><img src="https://img.shields.io/twitter/follow/rapha1004?logo=twitter&style=for-the-badge" alt="rapha1004" /></a> </p>
 
-- 🔭 I’m currently working on [my new portfolio](https://rapha1004)
+- 🔭 I’m currently working on [my new portfolio](https://rapha1004.me)
 
 - 🌱 I’m currently learning **Mysql**
 
