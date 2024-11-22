@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Mysql**
 
-- 👨‍💻 All of my projects are available at [https://rapha1004](https://rapha1004.me)
+- 👨‍💻 All of my projects are available at [https://rapha1004.me](https://rapha1004.me)
 
 - 💬 Ask me about **nothing**
 
