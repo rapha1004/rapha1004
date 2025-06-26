@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [my new portfolio](https://rapha1004.me)
 
-- 🌱 I’m currently learning **Mysql**
+- 🌱  I’m currently taking Harvard's CS50x course
 
 - 🏫 all my school projects are available here [rapha1005](https://github.com/rapha1005)
 
