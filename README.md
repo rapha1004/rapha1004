@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rapha1004" target="blank"><img src="https://img.shields.io/twitter/follow/rapha1004?logo=twitter&style=for-the-badge" alt="rapha1004" /></a> </p>
 
-- 🔭 I’m currently learning React
+- 🔭 I’m currently learning React, Next.js
 
 - 🌱  I’m currently taking Harvard's CS50x course
 
