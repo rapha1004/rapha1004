@@ -9,7 +9,7 @@
 
 - 🌱  I’m currently taking Harvard's CS50x course
 
-- 🏫 All my old school projects are available here [rapha1005](https://github.com/rapha1005)
+- 🏫 All my school projects are available here [rapha1005](https://github.com/rapha1005)
 
 - 👨‍💻 All of my projects are available at [https://rapha1004.me](https://rapha1004.me)
 
