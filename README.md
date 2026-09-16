@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raphaël</h1>
-<h3 align="center">Web developer and tech enjoyer from France 🇫🇷 </h3>
+<h3 align="center">Web developer and tech enjoyer from France 🥖 </h3>
 
 # 💫 About Me:
-<br>
+
 - 🔭 I’m currently learning React and Go<br><br>
 - ☁️ I’m interested in DevOps and self-hosting<br><br>
 - 🌱 I’m currently taking Harvard's CS50x course<br><br>
@@ -30,7 +30,7 @@
 ---
 ![Visitors](https://komarev.com/ghpvc/?username=rapha1004&color=blueviolet)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can support me
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rapha1004) Or you can just follow me and star my project ! :star:❤️
 
   
